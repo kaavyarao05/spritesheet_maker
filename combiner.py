@@ -6,7 +6,7 @@ output_file_path="output"
 
 file_names=os.listdir(input_file_path)
 
-spritesheet_width=2
+spritesheet_width=3
 
 input_file_array=[]
 x_size_array=[]
